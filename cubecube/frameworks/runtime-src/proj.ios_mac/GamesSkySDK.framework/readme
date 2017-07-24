@@ -1,0 +1,30 @@
+/**********************************************
+// ******* 重要说明 ******* //
+ ·· 整个工程项目的要求和规范（createBy--肖小丰）
+
+// ******* 本文件对该项目做一个简单的说明 ******* //
+ 
+- 开发注意：
+ ·· 本项目主要使用OC语言进行开发；
+ ·· 本项目主要为FrameWork的静态库的开发，用于支持游戏的平台；
+ ·· 有需要用到App前缀的地方 请使用 AL_**** ；
+ ·· 数据模型使用统一的前缀 AL_**** ；(注意之前的相关Model没有满足，以后一定要规范)
+ ·· 图片资源统一用GamesSkySDK.xcassets进行管理，在运行宿主工程目录下，添加相应图片，公有图片放在根目录下，某个页面的图片放在指定的文件夹下，某个页面的图片请使用该页面统一的前缀；特别注意：打包SDK上传到平台的时候一定要添加GamesSkySDK.xcassets，否则将找不图片。
+ ·· 图片命名规范："模块名_首字母大写驼峰式图片名_使用场景"
+ ·· 其他资源放在 Resources 文件夹下，要分类别存储（字体，CSS，JS，Viedeo，Music，Language，ExerciseFirmware，等）；
+ ·· 新建 Scene（在 Storyboard 中）时，StoryboardID 必须与 类名想同，可使用 类名.CreateFromMainStoryboard() 方法创建，如果不是在 Main.storyboard ®®中的Scene，需调用 类名.CreateFromStoryboard(name: NSString) 方法创建；
+ ·· 新建的 Xib 文件名必须与 类名想同，可使用 类名.CreateFromXib() 方法创建；
+ ·· 统一的提示框：（目前工程是用的第三方MBProgressHUD）
+
+ >>必须在Info.Plist中添加：NSPhotoLibraryUsageDescription、Privacy - Camera Usage Description 、NSLocationWhenInUseUsageDescription这些key，允许访问权限
+ **********************************************/
+
+
+
+
+
+
+
+
+
+

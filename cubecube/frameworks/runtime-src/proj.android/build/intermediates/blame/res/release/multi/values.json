@@ -1,0 +1,425 @@
+[
+    {
+        "outputFile": "/Users/xiongl/Documents/quickDemo/cubecube/frameworks/runtime-src/proj.android/build/intermediates/res/merged/release/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/Users/xiongl/Documents/quickDemo/cubecube/frameworks/runtime-src/proj.android/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 45,
+                        "endOffset": 96
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 101,
+                    "endColumn": 53,
+                    "endOffset": 150
+                },
+                "from": {
+                    "file": "/Users/xiongl/Documents/quickDemo/cubecube/frameworks/runtime-src/proj.android/res/values/plugin_string.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 887,
+                        "endColumn": 53,
+                        "endOffset": 936
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 155,
+                    "endColumn": 50,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "/Users/xiongl/Documents/quickDemo/cubecube/frameworks/runtime-src/proj.android/res/values/plugin_string.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 442,
+                        "endColumn": 50,
+                        "endOffset": 488
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 206,
+                    "endColumn": 59,
+                    "endOffset": 261
+                },
+                "from": {
+                    "file": "/Users/xiongl/Documents/quickDemo/cubecube/frameworks/runtime-src/proj.android/res/values/plugin_string.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 695,
+                        "endColumn": 59,
+                        "endOffset": 750
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 266,
+                    "endColumn": 44,
+                    "endOffset": 306
+                },
+                "from": {
+                    "file": "/Users/xiongl/Documents/quickDemo/cubecube/frameworks/runtime-src/proj.android/res/values/plugin_string.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 256,
+                        "endColumn": 44,
+                        "endOffset": 296
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 311,
+                    "endColumn": 46,
+                    "endOffset": 353
+                },
+                "from": {
+                    "file": "/Users/xiongl/Documents/quickDemo/cubecube/frameworks/runtime-src/proj.android/res/values/plugin_string.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 493,
+                        "endColumn": 46,
+                        "endOffset": 535
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 358,
+                    "endColumn": 42,
+                    "endOffset": 396
+                },
+                "from": {
+                    "file": "/Users/xiongl/Documents/quickDemo/cubecube/frameworks/runtime-src/proj.android/res/values/plugin_string.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 755,
+                        "endColumn": 42,
+                        "endOffset": 793
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 401,
+                    "endColumn": 49,
+                    "endOffset": 446
+                },
+                "from": {
+                    "file": "/Users/xiongl/Documents/quickDemo/cubecube/frameworks/runtime-src/proj.android/res/values/plugin_string.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 588,
+                        "endColumn": 49,
+                        "endOffset": 633
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 451,
+                    "endColumn": 43,
+                    "endOffset": 490
+                },
+                "from": {
+                    "file": "/Users/xiongl/Documents/quickDemo/cubecube/frameworks/runtime-src/proj.android/res/values/plugin_string.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 212,
+                        "endColumn": 43,
+                        "endOffset": 251
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 495,
+                    "endColumn": 51,
+                    "endOffset": 542
+                },
+                "from": {
+                    "file": "/Users/xiongl/Documents/quickDemo/cubecube/frameworks/runtime-src/proj.android/res/values/plugin_string.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 107,
+                        "endColumn": 51,
+                        "endOffset": 154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 547,
+                    "endColumn": 52,
+                    "endOffset": 595
+                },
+                "from": {
+                    "file": "/Users/xiongl/Documents/quickDemo/cubecube/frameworks/runtime-src/proj.android/res/values/plugin_string.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 159,
+                        "endColumn": 52,
+                        "endOffset": 207
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 600,
+                    "endColumn": 51,
+                    "endOffset": 647
+                },
+                "from": {
+                    "file": "/Users/xiongl/Documents/quickDemo/cubecube/frameworks/runtime-src/proj.android/res/values/plugin_string.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 51,
+                        "endOffset": 102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 652,
+                    "endColumn": 44,
+                    "endOffset": 692
+                },
+                "from": {
+                    "file": "/Users/xiongl/Documents/quickDemo/cubecube/frameworks/runtime-src/proj.android/res/values/plugin_string.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 941,
+                        "endColumn": 44,
+                        "endOffset": 981
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 697,
+                    "endColumn": 45,
+                    "endOffset": 738
+                },
+                "from": {
+                    "file": "/Users/xiongl/Documents/quickDemo/cubecube/frameworks/runtime-src/proj.android/res/values/plugin_string.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 798,
+                        "endColumn": 45,
+                        "endOffset": 839
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 743,
+                    "endColumn": 41,
+                    "endOffset": 780
+                },
+                "from": {
+                    "file": "/Users/xiongl/Documents/quickDemo/cubecube/frameworks/runtime-src/proj.android/res/values/plugin_string.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 356,
+                        "endColumn": 41,
+                        "endOffset": 393
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 785,
+                    "endColumn": 54,
+                    "endOffset": 835
+                },
+                "from": {
+                    "file": "/Users/xiongl/Documents/quickDemo/cubecube/frameworks/runtime-src/proj.android/res/values/plugin_string.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 301,
+                        "endColumn": 54,
+                        "endOffset": 351
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 840,
+                    "endColumn": 43,
+                    "endOffset": 879
+                },
+                "from": {
+                    "file": "/Users/xiongl/Documents/quickDemo/cubecube/frameworks/runtime-src/proj.android/res/values/plugin_string.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 398,
+                        "endColumn": 43,
+                        "endOffset": 437
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 884,
+                    "endColumn": 56,
+                    "endOffset": 936
+                },
+                "from": {
+                    "file": "/Users/xiongl/Documents/quickDemo/cubecube/frameworks/runtime-src/proj.android/res/values/plugin_string.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 638,
+                        "endColumn": 56,
+                        "endOffset": 690
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 941,
+                    "endColumn": 47,
+                    "endOffset": 984
+                },
+                "from": {
+                    "file": "/Users/xiongl/Documents/quickDemo/cubecube/frameworks/runtime-src/proj.android/res/values/plugin_string.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 540,
+                        "endColumn": 47,
+                        "endOffset": 583
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 989,
+                    "endColumn": 61,
+                    "endOffset": 1046
+                },
+                "from": {
+                    "file": "/Users/xiongl/Documents/quickDemo/cubecube/frameworks/runtime-src/proj.android/res/values/plugin_string.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 986,
+                        "endColumn": 61,
+                        "endOffset": 1043
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1051,
+                    "endColumn": 42,
+                    "endOffset": 1089
+                },
+                "from": {
+                    "file": "/Users/xiongl/Documents/quickDemo/cubecube/frameworks/runtime-src/proj.android/res/values/plugin_string.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 844,
+                        "endColumn": 42,
+                        "endOffset": 882
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1094,
+                    "endColumn": 53,
+                    "endOffset": 1143
+                },
+                "from": {
+                    "file": "/Users/xiongl/Documents/quickDemo/cubecube/frameworks/runtime-src/proj.android/res/values/plugin_string.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1048,
+                        "endColumn": 53,
+                        "endOffset": 1097
+                    }
+                }
+            }
+        ]
+    }
+]

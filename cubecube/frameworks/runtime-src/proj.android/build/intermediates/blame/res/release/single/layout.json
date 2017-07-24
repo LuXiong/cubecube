@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/xiongl/Documents/quickDemo/cubecube/frameworks/runtime-src/proj.android/build/intermediates/res/merged/release/layout/plugin_login.xml",
+        "source": "/Users/xiongl/Documents/quickDemo/cubecube/frameworks/runtime-src/proj.android/res/layout/plugin_login.xml"
+    },
+    {
+        "merged": "/Users/xiongl/Documents/quickDemo/cubecube/frameworks/runtime-src/proj.android/build/intermediates/res/merged/release/layout/plugin_ads.xml",
+        "source": "/Users/xiongl/Documents/quickDemo/cubecube/frameworks/runtime-src/proj.android/res/layout/plugin_ads.xml"
+    }
+]

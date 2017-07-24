@@ -1,0 +1,6 @@
+framework module GamesSkySDK {
+  umbrella header "GamesSkySDK.h"
+
+  export *
+  module * { export * }
+}

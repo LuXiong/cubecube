@@ -1,0 +1,9 @@
+/assets
+/.settings
+/build
+/bin
+/gen
+/.classpath
+/.project
+/project.properties
+*.iml

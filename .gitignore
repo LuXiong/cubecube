@@ -39,3 +39,27 @@ luac.out
 *.x86_64
 *.hex
 
+
+debug.log
+cubecube/data.txt
+cubecube/frameworks/runtime-src/proj.android/local.properties
+cubecube/frameworks/runtime-src/proj.android/.idea/.name
+cubecube/frameworks/runtime-src/proj.android/.idea/compiler.xml
+cubecube/frameworks/runtime-src/proj.android/.idea/gradle.xml
+cubecube/frameworks/runtime-src/proj.android/.idea/misc.xml
+cubecube/frameworks/runtime-src/proj.android/.idea/modules.xml
+cubecube/frameworks/runtime-src/proj.android/.idea/runConfigurations.xml
+cubecube/frameworks/runtime-src/proj.android/.idea/workspace.xml
+cubecube/frameworks/runtime-src/proj.android/.idea/copyright/profiles_settings.xml
+cubecube/frameworks/runtime-src/proj.android/.idea/libraries/alipay_recharge_sdk.xml
+cubecube/frameworks/runtime-src/proj.android/.idea/libraries/android_support_v4.xml
+cubecube/frameworks/runtime-src/proj.android/.idea/libraries/lib_jpush_2_2_0.xml
+cubecube/frameworks/runtime-src/proj.android/.idea/libraries/lib_sdk_tencent_mta_sdk_v1_0_0.xml
+cubecube/frameworks/runtime-src/proj.android/.idea/libraries/lib_sdk_tencent_open_sdk.xml
+cubecube/frameworks/runtime-src/proj.android/.idea/libraries/lib_tk_Game_Analytics_SDK_Android_V3_2_18.xml
+cubecube/frameworks/runtime-src/proj.android/.idea/libraries/libPluginProtocol.xml
+cubecube/frameworks/runtime-src/proj.android/.idea/libraries/okhttp_3_4_1.xml
+cubecube/frameworks/runtime-src/proj.android/.idea/libraries/okio_1_9_0.xml
+cubecube/frameworks/runtime-src/proj.android/.idea/libraries/umeng_analytics_v6_1_0.xml
+cubecube/frameworks/runtime-src/proj.android/.idea/libraries/wx_libammsdk.xml
+cubecube/frameworks/runtime-src/proj.android/.idea/libraries/zxing.xml

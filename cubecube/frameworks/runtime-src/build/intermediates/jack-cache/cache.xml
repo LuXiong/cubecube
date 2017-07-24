@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/xiongl/Documents/quickDemo/cubecube/frameworks/runtime-src/proj.android/libs/libPluginProtocol.jar"
+        revision="24.0.3"
+        sha1="9b9b176c3d1a271237a0ddf62229b7fc9960135a">
+        <dex dex="/Users/xiongl/Documents/quickDemo/cubecube/frameworks/runtime-src/proj.android/build/intermediates/jill/release/packaged/libPluginProtocol-d013ae5b95f739fb688b5890a26c4a245ce59608.jar" />
+    </item>
+    <item
+        jar="/Users/xiongl/Documents/android-sdk-macosx/platforms/android-22/android.jar"
+        revision="24.0.3"
+        sha1="79cb26a0e1c81773e9354a01d671ef3c465856d8">
+        <dex dex="/Users/xiongl/Documents/quickDemo/cubecube/frameworks/runtime-src/proj.android/build/intermediates/jill/release/runtime/android-7b5e3ae04701f76064b7c9948b72f89d6aa3d279.jar" />
+    </item>
+    <item
+        jar="/Users/xiongl/Documents/quickDemo/cubecube/frameworks/runtime-src/proj.android/build/intermediates/exploded-aar/runtime-src/java/unspecified/jars/classes.jar"
+        revision="24.0.3"
+        sha1="1e55b0fcdf421e709998c6d3dc21455380349e03">
+        <dex dex="/Users/xiongl/Documents/quickDemo/cubecube/frameworks/runtime-src/proj.android/build/intermediates/jill/release/packaged/classes-b0b8fdee5e215c9f81ad78da49a6ef40f4ade1f2.jar" />
+    </item>
+
+</items>

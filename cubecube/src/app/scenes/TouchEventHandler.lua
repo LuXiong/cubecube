@@ -83,11 +83,7 @@ function TouchEventHandler.onTouchEnded(touch, event)
 		end
 
 		scene.lbl_score:setString(board.score)
-		local record = cc.UserDefault:getInstance():getStringForKey("cube_record")
-		-- if checknumber(board.score)>checknumber(record) then
-			-- print("record score:",record)
-			-- cc.UserDefault:getInstance():setStringForKey("cube_record",tostring(board.score))
-		-- end
+		local record = cc.UserDefault:getInstance():getStringForKey("cube_socre_record")
 
 		if #scene.arr_shapes == 0 then
 			scene:generateShapes()

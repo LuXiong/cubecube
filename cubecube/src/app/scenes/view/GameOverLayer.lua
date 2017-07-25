@@ -35,7 +35,7 @@ function GameOverLayer:ctor(params)
 	self.lbl_newbest = cc.Label:createWithTTF("* 最高分! *",Res.font_impact,34*f_scale,cc.size(0, 0),cc.TEXT_ALIGNMENT_LEFT,cc.VERTICAL_TEXT_ALIGNMENT_CENTER)
 							:align(display.CENTER_LEFT, 360*f_scale, self.f_height-140*f_scale)
 				   		    :addTo(self):hide()
-	local record = cc.UserDefault:getInstance():getStringForKey("cube_record") or "0"
+	local record = cc.UserDefault:getInstance():getStringForKey("cube_socre_record") or "0"
 
 	self.lbl_record = cc.Label:createWithTTF("历史记录:    ",Res.font_pingf_bold,34*f_scale,cc.size(0, 0),cc.TEXT_ALIGNMENT_LEFT,cc.VERTICAL_TEXT_ALIGNMENT_CENTER)
 							:align(display.CENTER_LEFT, 150*f_scale, self.f_height-185*f_scale)
@@ -73,10 +73,10 @@ end
 function GameOverLayer:updateInfo(score,reason)
 	self.lbl_title:setString(reason or "时间到！")
 	self.lbl_score_content:setString(tostring(score))
-	local record = cc.UserDefault:getInstance():getStringForKey("cube_record") or "0"
+	local record = cc.UserDefault:getInstance():getStringForKey("cube_socre_record") or "0"
 	self.lbl_record_content:setString(record)
 	if checknumber(score)>checknumber(record) then
-		cc.UserDefault:getInstance():setStringForKey("cube_record",tostring(score))
+		cc.UserDefault:getInstance():setStringForKey("cube_socre_record",tostring(score))
 		self.lbl_newbest:show()
 		self.lbl_newbest:pos(360*f_scale+self.lbl_score_content:getContentSize().width+10*f_scale, self.f_height-140*f_scale)
 	else

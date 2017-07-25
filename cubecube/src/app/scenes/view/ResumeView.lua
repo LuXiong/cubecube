@@ -37,7 +37,7 @@ function ResumeView:ctor(params)
 	end)
 	self.btn_bgm_switch:addTo(self) 
 
-	local record = cc.UserDefault:getInstance():getStringForKey("cube_record") or "0"
+	local record = cc.UserDefault:getInstance():getStringForKey("cube_socre_record") or "0"
 
 	self.lbl_music = cc.Label:createWithTTF("音      效:",Res.font_pingf_bold,34*f_scale,cc.size(0, 0),cc.TEXT_ALIGNMENT_LEFT,cc.VERTICAL_TEXT_ALIGNMENT_CENTER)
 							:align(display.CENTER_LEFT, 150*f_scale, self.f_height-210*f_scale)

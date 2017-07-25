@@ -21,10 +21,10 @@ function MyApp:ctor()
 end
 
 function MyApp:initConfigs()
-	local record = cc.UserDefault:getInstance():getStringForKey("cube_record") 
+	local record = cc.UserDefault:getInstance():getStringForKey("cube_socre_record") 
 	if not record or #record<=0 then
 		record = "0"
-		cc.UserDefault:getInstance():setStringForKey("cube_record", record)
+		cc.UserDefault:getInstance():setStringForKey("cube_socre_record", record)
 	end
 
 	local hasBgm = cc.UserDefault:getInstance():getStringForKey("cube_bgm") 

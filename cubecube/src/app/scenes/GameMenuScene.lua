@@ -25,7 +25,7 @@ function GameMenuScene:initViews()
 	:align(display.CENTER, display.cx, display.height-260)
 	:addTo(self)
 
-	local record = cc.UserDefault:getInstance():getStringForKey("cube_record") 
+	local record = cc.UserDefault:getInstance():getStringForKey("cube_socre_record") 
 
 	self.lbl_record = cc.ui.UILabel.new({
 		text = "最新记录:0",
